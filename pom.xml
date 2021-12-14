@@ -30,7 +30,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>1.8</java.version>
         <!--这里添加需要引用工具的版本信息,下面直接引用进去，可以统一管理版本-->
-        <log4j2.version>2.7</log4j2.version>
+        <log4j2.version>2.16.0</log4j2.version>
         <springcloud.version>Hoxton.RELEASE</springcloud.version>
     </properties>
 
